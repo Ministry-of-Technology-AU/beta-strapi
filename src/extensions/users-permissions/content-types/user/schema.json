@@ -226,6 +226,9 @@
       "relation": "manyToMany",
       "target": "api::organisation.organisation",
       "inversedBy": "interested_applicants"
+    },
+    "semester_planner_tabs": {
+      "type": "json"
     }
   }
 }
