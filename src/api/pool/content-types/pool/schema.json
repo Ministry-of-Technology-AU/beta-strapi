@@ -72,6 +72,10 @@
     },
     "day": {
       "type": "date"
+    },
+    "useEmail": {
+      "type": "boolean",
+      "default": false
     }
   }
 }
